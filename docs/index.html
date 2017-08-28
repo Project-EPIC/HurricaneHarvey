@@ -54,16 +54,17 @@ map.once('load',function(){
     },
     'paint': {
       'circle-color': 'salmon',
-      'circle-opacity': 0.7
-    }
+      'circle-opacity': 0.9
+    },
+    'filter':['all',
+      ['>=', 'timestamp',1503792000]
+    ]
   })
 
   map.on('mousemove', function(e){
     var features = map.queryRenderedFeatures(e.point, {layers: ['tweets']})
     map.getCanvas().style.cursor = (features.length>0)? 'pointer' : '';
   });
-
-  var popup = new mapboxgl.Popup({'closeOnClick':true});
 
   map.on('click', function(e){
     var features = map.queryRenderedFeatures(e.point, {layers: ['tweets']})
@@ -74,13 +75,21 @@ map.once('load',function(){
 
     var html = "<table>"
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">User</span></td><td>${props.user}</td></tr>`
-    html += `<tr><td><span style="margin-right:10px; font-weight:700;">Time</span></td><td>${props.time}</td></tr>`
+    html += `<tr><td><span style="margin-right:10px; font-weight:700;">Time</span></td><td>${props.created_at}</td></tr>`
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">Text</span></td><td>${extractLink(props.text)}</td></tr>`
+    html += `<tr><td><span style="margin-right:10px; font-weight:700;">timestamp</span></td><td>${props.timestamp}</td></tr>
+    </table>`
 
-    popup.setLngLat(e.lngLat)
+    new mapboxgl.Popup({'closeOnClick':true})
+      .setLngLat(e.lngLat)
       .setHTML(html)
       .addTo(map);
   });
+
+  map.on('moveend',function(e){
+    var features = map.queryRenderedFeatures({layers: ['tweets']})
+    console.warn("Tweets In View: ~" + features.length)
+  })
 })
 
 </script>
