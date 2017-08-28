@@ -1,3 +1,88 @@
+<!DOCTYPE html>
 <html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.35.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.35.1/mapbox-gl.css' rel='stylesheet' />
 
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiamVubmluZ3NhbmRlcnNvbiIsImEiOiIzMHZndnpvIn0.PS-j7fRK3HGU7IE8rbLT9A';
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    zoom: 3,
+    center: [-33.49, 26.47],
+    style: 'mapbox://styles/mapbox/satellite-streets-v9',
+    hash: true
+});
+/*
+function extractLink(text){
+  if(text.search("http")>=0){
+    var out = []
+    text.split(" ").forEach(function(word){
+      if (word.startsWith("http")){
+        out.push(`<a class="link" href="${word}" target="_blank">${word}</a>`)
+      }else{
+        out.push(word)
+      }
+    })
+    return out.join(" ")
+  }else{
+    return text
+  }
+}
+*/
+
+map.once('load',function(){
+
+  map.addLayer({
+    'id': "tweets",
+    'type': "circle",
+    'source': {
+      'type': "geojson",
+      'data': "harvey.geojson"
+    },
+    'paint': {
+      'circle-color': 'salmon',
+      'circle-opacity': 0.7
+    }
+  })
+
+  map.on('mousemove', function(e){
+    var features = map.queryRenderedFeatures(e.point, {layers: ['tweets']})
+    map.getCanvas().style.cursor = (features.length>0)? 'pointer' : '';
+
+  map.on('click', function(e){
+    var features = map.queryRenderedFeatures(e.point, {layers: ['tweets']})
+
+    if(!features.length){return};
+    var props = features[0].properties
+
+    var html = "<table>"
+    Object.keys(props).forEach(function(key){
+      html += `<tr><td><span style="margin-right:10px; font-weight:700;">${key}</span></td><td>${props[key]}</td></tr>`
+    })
+
+    new mapboxgl.Popup()
+      .setLngLat(e.lngLat)
+      .setHTML(html + '</table>')
+      .addTo(map);
+    });
+  });
+
+})
+
+</script>
+
+</body>
 </html>
