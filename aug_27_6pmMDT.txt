@@ -1,0 +1,1029 @@
+Start         : 2017-08-24
+End           : 2017-08-27
+Number of Days: 4
+san antonio harvey:2017239:9: 0
+#hurricanestrong:2017239:9: 3
+#stormharvey:2017238:b: 11
+ #hurricaneharvey:2017237:c: 2696
+#houston:2017237:6: 0
+#harveystorm2017:2017236:a: 0
+#corpuschristi:2017236:2: 0
+hurricane harvey:2017239:5: 13378
+#stxwx:2017236:c: 0
+ #hurricaneharvey:2017238:8: 3183
+#houston:2017238:3: 0
+san antonio harvey:2017238:1: 0
+#houston:2017237:0: 0
+harvery:2017236:8: 0
+hurricane harvey:2017236:b: 688
+hurricane harvey:2017237:0: 16868
+#houstonflood:2017238:8: 0
+#tropicalstormharvey:2017237:c: 3
+#houston:2017236:8: 0
+#southtexas:2017239:b: 40
+san antonio harvey:2017238:d: 0
+#southtexas:2017239:6: 33
+ #hurricaneharvey:2017236:b: 179
+#khou11:2017236:e: 0
+#stxwx:2017238:e: 509
+#houston:2017238:5: 0
+#houston:2017238:4: 0
+#southtexas:2017239:d: 29
+#stormharvey:2017238:2: 10
+#houstonflood:2017238:a: 0
+harvery:2017236:f: 0
+#houstonflood:2017237:a: 0
+#stormharvey:2017237:d: 6
+#houstonflood:2017237:5: 0
+#houstonflood:2017238:4: 0
+#houston:2017236:a: 0
+#hurricanestrong:2017238:8: 40
+#nexstarharvey:2017236:b: 0
+#harveystorm2017:2017236:1: 0
+#tropicalstormharvey:2017238:3: 116
+harvery:2017237:8: 0
+#houston:2017236:6: 0
+#stxwx:2017239:e: 99
+#tropicalstormharvey:2017236:1: 0
+#harveystorm2017:2017237:9: 0
+#corpuschristi:2017237:4: 179
+#houstonflood:2017238:f: 0
+harvey:2017239:5: 52426
+#southtexas:2017236:e: 0
+#houston:2017238:e: 0
+ #hurricaneharvey:2017238:c: 3191
+harvey:2017236:e: 0
+#stormharvey:2017237:5: 12
+#hurricanestrong:2017236:c: 0
+#corpuschristi:2017237:8: 216
+#stxwx:2017238:4: 543
+hurricane harvey:2017238:4: 21921
+#hurricanestrong:2017238:d: 13
+harvey:2017236:9: 0
+#corpuschristi:2017238:8: 355
+san antonio harvey:2017239:8: 0
+#houston:2017239:a: 6180
+#houstonflood:2017236:c: 0
+#hurricanestrong:2017238:e: 10
+ #hurricaneharvey:2017237:4: 2745
+#hurricanestrong:2017236:4: 0
+#hurricanestrong:2017236:f: 0
+#stormharvey:2017237:b: 10
+#corpuschristi:2017236:4: 0
+#southtexas:2017236:3: 0
+san antonio harvey:2017237:4: 0
+ #hurricaneharvey:2017237:9: 2631
+#houstonflood:2017237:6: 0
+#stxwx:2017236:a: 0
+#nexstarharvey:2017238:c: 3
+#corpuschristi:2017237:0: 210
+#khou11:2017236:d: 0
+#nexstarharvey:2017237:6: 0
+hurricane harvey:2017238:8: 21920
+#houston:2017237:2: 0
+#corpuschristi:2017239:0: 95
+#tropicalstormharvey:2017238:e: 115
+#houstonflood:2017236:2: 0
+#khou11:2017236:3: 0
+#corpuschristi:2017239:3: 85
+hurricane harvey:2017238:0: 22209
+#hurricanestrong:2017239:5: 2
+#stxwx:2017236:7: 0
+#stormharvey:2017238:8: 12
+#khou11:2017236:6: 0
+hurricane harvey:2017238:2: 22178
+#stormharvey:2017239:0: 9
+san antonio harvey:2017239:0: 0
+#khou11:2017238:7: 0
+#nexstarharvey:2017236:a: 0
+#hurricanestrong:2017236:3: 0
+#tropicalstormharvey:2017239:c: 547
+san antonio harvey:2017238:b: 0
+#hurricanestrong:2017238:1: 15
+#hurricanestrong:2017239:d: 4
+#houston:2017239:0: 6274
+ #hurricaneharvey:2017236:0: 192
+#stormharvey:2017236:1: 0
+#hurricanestrong:2017236:0: 0
+#harveystorm2017:2017237:7: 0
+hurricane harvey:2017237:a: 16670
+ #hurricaneharvey:2017239:c: 2163
+harvery:2017237:a: 0
+#harveystorm2017:2017239:d: 19
+ #hurricaneharvey:2017238:9: 3225
+#khou11:2017238:b: 0
+ #hurricaneharvey:2017239:5: 2197
+#stormharvey:2017236:9: 0
+#harveystorm2017:2017238:3: 4
+harvery:2017239:f: 0
+san antonio harvey:2017236:4: 0
+#houstonflood:2017239:5: 4249
+san antonio harvey:2017237:6: 0
+hurricane harvey:2017238:d: 21838
+harvey:2017238:c: 55295
+ #hurricaneharvey:2017239:7: 2109
+ #hurricaneharvey:2017237:f: 2643
+#harveystorm2017:2017236:c: 0
+#southtexas:2017236:a: 0
+san antonio harvey:2017237:c: 0
+#stxwx:2017239:7: 79
+#houston:2017239:7: 6295
+#stormharvey:2017237:1: 9
+#hurricanestrong:2017236:6: 0
+#tropicalstormharvey:2017239:b: 532
+#houstonflood:2017238:2: 0
+#houston:2017236:5: 0
+#khou11:2017238:6: 0
+harvery:2017239:6: 2
+#harveystorm2017:2017236:3: 0
+#harveystorm2017:2017238:5: 4
+#tropicalstormharvey:2017238:7: 118
+#stxwx:2017236:6: 0
+harvey:2017237:9: 28578
+#southtexas:2017236:5: 0
+harvery:2017238:1: 0
+#tropicalstormharvey:2017239:d: 519
+#khou11:2017237:7: 0
+#southtexas:2017236:b: 0
+harvey:2017239:a: 52500
+harvery:2017239:3: 1
+harvery:2017239:0: 5
+#southtexas:2017238:5: 36
+harvey:2017238:8: 54915
+#nexstarharvey:2017237:2: 1
+#khou11:2017236:f: 0
+#southtexas:2017237:a: 8
+hurricane harvey:2017238:f: 22030
+harvey:2017239:3: 52272
+#tropicalstormharvey:2017237:d: 6
+#nexstarharvey:2017239:c: 0
+#tropicalstormharvey:2017236:f: 0
+#stormharvey:2017237:9: 8
+san antonio harvey:2017238:3: 0
+#stormharvey:2017239:7: 9
+#stormharvey:2017236:f: 0
+san antonio harvey:2017238:7: 0
+#stormharvey:2017238:9: 6
+#khou11:2017238:1: 0
+#houstonflood:2017237:c: 0
+#stxwx:2017238:a: 496
+#tropicalstormharvey:2017236:b: 0
+#houston:2017237:a: 0
+#hurricanestrong:2017238:6: 27
+#stxwx:2017237:0: 104
+ #hurricaneharvey:2017237:2: 2662
+#khou11:2017236:5: 0
+#corpuschristi:2017236:e: 0
+#tropicalstormharvey:2017238:c: 113
+#southtexas:2017236:0: 0
+#khou11:2017239:6: 450
+#tropicalstormharvey:2017238:4: 105
+#stormharvey:2017236:2: 0
+harvey:2017239:7: 52189
+#stxwx:2017239:d: 111
+#hurricanestrong:2017238:7: 39
+#tropicalstormharvey:2017236:a: 0
+hurricane harvey:2017238:b: 21963
+harvey:2017238:4: 55147
+san antonio harvey:2017239:a: 0
+harvey:2017236:5: 0
+#harveystorm2017:2017236:8: 0
+#nexstarharvey:2017238:0: 4
+san antonio harvey:2017236:f: 0
+#hurricanestrong:2017239:1: 4
+san antonio harvey:2017237:8: 0
+#khou11:2017236:1: 0
+#harveystorm2017:2017238:7: 3
+#tropicalstormharvey:2017236:d: 0
+#southtexas:2017238:3: 42
+#stormharvey:2017239:9: 12
+#khou11:2017238:4: 0
+#houstonflood:2017237:1: 0
+harvery:2017236:1: 0
+hurricane harvey:2017238:6: 22068
+ #hurricaneharvey:2017238:f: 3222
+harvery:2017237:0: 0
+san antonio harvey:2017237:5: 0
+#southtexas:2017238:4: 53
+#hurricanestrong:2017238:b: 28
+ #hurricaneharvey:2017236:3: 193
+#tropicalstormharvey:2017236:e: 0
+#houstonflood:2017239:7: 4181
+#southtexas:2017239:f: 33
+#hurricanestrong:2017236:a: 0
+#tropicalstormharvey:2017237:f: 3
+#nexstarharvey:2017239:2: 2
+#corpuschristi:2017237:d: 209
+#nexstarharvey:2017236:7: 0
+#stxwx:2017239:b: 86
+#stxwx:2017238:f: 506
+#harveystorm2017:2017239:a: 19
+ #hurricaneharvey:2017236:c: 204
+hurricane harvey:2017238:e: 22041
+hurricane harvey:2017236:a: 702
+#hurricanestrong:2017237:0: 6
+#hurricanestrong:2017237:e: 2
+#stxwx:2017237:6: 100
+#houston:2017236:b: 0
+#nexstarharvey:2017238:7: 2
+san antonio harvey:2017238:6: 0
+hurricane harvey:2017236:c: 694
+#nexstarharvey:2017239:9: 0
+#harveystorm2017:2017238:1: 2
+#southtexas:2017239:8: 23
+#houstonflood:2017239:1: 4113
+hurricane harvey:2017237:2: 16682
+harvey:2017238:9: 55010
+#hurricanestrong:2017239:f: 2
+#nexstarharvey:2017236:5: 0
+#houston:2017238:8: 0
+#houston:2017239:d: 6271
+#khou11:2017238:8: 0
+#stxwx:2017236:1: 0
+ #hurricaneharvey:2017239:4: 2217
+#khou11:2017238:0: 0
+san antonio harvey:2017239:c: 0
+#stormharvey:2017237:f: 13
+ #hurricaneharvey:2017239:9: 2187
+hurricane harvey:2017236:9: 649
+san antonio harvey:2017236:0: 0
+harvey:2017238:0: 55349
+#southtexas:2017239:e: 34
+#khou11:2017237:1: 0
+#nexstarharvey:2017237:0: 4
+#houston:2017238:b: 0
+harvery:2017239:b: 2
+san antonio harvey:2017236:8: 0
+ #hurricaneharvey:2017238:4: 3174
+#tropicalstormharvey:2017239:2: 515
+harvey:2017238:d: 54616
+#harveystorm2017:2017238:2: 2
+#nexstarharvey:2017237:c: 2
+harvery:2017238:e: 0
+#hurricanestrong:2017236:d: 0
+#houstonflood:2017238:9: 0
+#stormharvey:2017239:b: 13
+ #hurricaneharvey:2017237:a: 2644
+ #hurricaneharvey:2017238:a: 3195
+#southtexas:2017239:3: 34
+#nexstarharvey:2017237:7: 3
+#corpuschristi:2017239:a: 84
+harvey:2017237:d: 28312
+san antonio harvey:2017237:3: 0
+hurricane harvey:2017237:8: 16821
+san antonio harvey:2017237:9: 0
+san antonio harvey:2017239:d: 0
+san antonio harvey:2017236:a: 0
+#stxwx:2017237:b: 122
+#stormharvey:2017238:4: 3
+hurricane harvey:2017237:f: 16771
+#khou11:2017239:0: 444
+#hurricanestrong:2017239:b: 0
+#khou11:2017236:0: 0
+#corpuschristi:2017236:a: 0
+san antonio harvey:2017238:4: 0
+#tropicalstormharvey:2017238:1: 111
+#southtexas:2017238:a: 37
+#stormharvey:2017239:1: 10
+harvey:2017239:1: 52690
+#corpuschristi:2017238:c: 382
+#hurricanestrong:2017238:a: 17
+#harveystorm2017:2017237:c: 0
+#nexstarharvey:2017239:4: 0
+#nexstarharvey:2017236:e: 0
+hurricane harvey:2017237:9: 16842
+hurricane harvey:2017239:e: 13413
+#southtexas:2017238:2: 37
+harvery:2017239:e: 0
+harvey:2017239:8: 52841
+#hurricanestrong:2017237:2: 2
+#hurricanestrong:2017238:c: 33
+harvery:2017238:3: 0
+#tropicalstormharvey:2017237:9: 0
+#houston:2017236:1: 0
+#houston:2017236:9: 0
+#houston:2017239:f: 6392
+#stxwx:2017237:4: 119
+ #hurricaneharvey:2017236:5: 210
+#hurricanestrong:2017238:5: 20
+#khou11:2017236:2: 0
+#tropicalstormharvey:2017237:1: 4
+#southtexas:2017237:9: 9
+san antonio harvey:2017236:1: 0
+#stxwx:2017236:3: 0
+#stormharvey:2017236:3: 0
+#stxwx:2017237:3: 110
+#harveystorm2017:2017237:2: 0
+#southtexas:2017237:8: 6
+#houston:2017237:b: 0
+harvey:2017238:7: 55241
+#nexstarharvey:2017236:3: 0
+#southtexas:2017237:c: 9
+#hurricanestrong:2017236:9: 0
+san antonio harvey:2017238:e: 0
+#harveystorm2017:2017239:4: 11
+hurricane harvey:2017237:c: 16996
+#houstonflood:2017236:f: 0
+#houston:2017239:6: 6350
+#tropicalstormharvey:2017238:b: 101
+#nexstarharvey:2017236:0: 0
+#houstonflood:2017239:a: 4181
+#southtexas:2017238:c: 38
+hurricane harvey:2017237:7: 16883
+hurricane harvey:2017237:3: 16755
+san antonio harvey:2017236:e: 0
+#houston:2017237:f: 0
+#nexstarharvey:2017238:a: 16
+#corpuschristi:2017236:b: 0
+#houston:2017237:e: 0
+#southtexas:2017237:1: 15
+#corpuschristi:2017236:1: 0
+#houston:2017238:7: 0
+#tropicalstormharvey:2017239:6: 543
+#stxwx:2017239:3: 106
+harvery:2017238:8: 0
+harvey:2017239:0: 52542
+hurricane harvey:2017238:9: 22038
+#khou11:2017236:9: 0
+#stormharvey:2017237:c: 6
+#tropicalstormharvey:2017238:f: 115
+#houstonflood:2017236:8: 0
+#khou11:2017237:6: 0
+#khou11:2017237:5: 0
+hurricane harvey:2017236:0: 654
+#southtexas:2017239:5: 24
+#corpuschristi:2017238:5: 344
+#tropicalstormharvey:2017238:d: 95
+ #hurricaneharvey:2017238:5: 3231
+harvey:2017239:4: 52535
+san antonio harvey:2017236:3: 0
+#houstonflood:2017238:6: 0
+harvery:2017237:5: 0
+#stxwx:2017238:5: 477
+#stormharvey:2017238:c: 11
+#hurricanestrong:2017239:0: 4
+#houstonflood:2017237:2: 0
+hurricane harvey:2017239:c: 13454
+#corpuschristi:2017237:6: 226
+#houston:2017238:9: 0
+#nexstarharvey:2017239:5: 2
+#hurricanestrong:2017237:9: 0
+#corpuschristi:2017238:e: 373
+harvey:2017239:c: 52033
+#stxwx:2017238:1: 511
+#southtexas:2017238:f: 40
+#stxwx:2017237:2: 105
+#tropicalstormharvey:2017237:8: 11
+#houstonflood:2017238:3: 0
+#harveystorm2017:2017239:0: 19
+#southtexas:2017239:4: 38
+#nexstarharvey:2017239:3: 0
+#nexstarharvey:2017238:2: 4
+#tropicalstormharvey:2017239:e: 546
+#harveystorm2017:2017238:8: 3
+#stxwx:2017237:a: 109
+harvery:2017236:7: 0
+harvery:2017238:4: 0
+hurricane harvey:2017239:4: 13414
+#houstonflood:2017238:0: 0
+harvey:2017237:7: 28346
+#nexstarharvey:2017238:3: 4
+#harveystorm2017:2017237:0: 0
+#khou11:2017239:c: 444
+#stormharvey:2017236:6: 0
+#houstonflood:2017236:7: 0
+#harveystorm2017:2017237:5: 0
+san antonio harvey:2017236:d: 0
+ #hurricaneharvey:2017236:d: 178
+hurricane harvey:2017239:1: 13543
+#khou11:2017238:d: 0
+#stxwx:2017238:b: 493
+#corpuschristi:2017239:c: 88
+#hurricanestrong:2017237:b: 2
+harvey:2017239:d: 52207
+#corpuschristi:2017238:9: 341
+#stxwx:2017239:4: 87
+harvey:2017236:7: 0
+ #hurricaneharvey:2017239:0: 2161
+#corpuschristi:2017237:f: 203
+#houstonflood:2017236:9: 0
+harvey:2017237:2: 28380
+#tropicalstormharvey:2017236:8: 0
+san antonio harvey:2017236:7: 0
+#southtexas:2017237:f: 11
+#tropicalstormharvey:2017239:1: 525
+#corpuschristi:2017238:b: 350
+san antonio harvey:2017237:7: 0
+hurricane harvey:2017237:1: 16700
+#stormharvey:2017237:6: 9
+#houstonflood:2017237:d: 0
+harvey:2017238:a: 54902
+#stormharvey:2017236:b: 0
+#stxwx:2017237:d: 106
+#corpuschristi:2017238:3: 367
+ #hurricaneharvey:2017238:0: 3256
+harvery:2017236:5: 0
+ #hurricaneharvey:2017237:8: 2613
+#southtexas:2017236:4: 0
+#stormharvey:2017236:d: 0
+#tropicalstormharvey:2017238:2: 94
+#houston:2017238:c: 0
+#nexstarharvey:2017237:b: 3
+harvey:2017237:4: 28516
+#hurricanestrong:2017238:3: 22
+#khou11:2017236:a: 0
+#khou11:2017239:4: 437
+#houston:2017239:3: 6335
+#khou11:2017238:a: 0
+#southtexas:2017238:8: 35
+#nexstarharvey:2017236:9: 0
+#corpuschristi:2017236:8: 0
+harvey:2017238:3: 55011
+harvey:2017236:8: 0
+#houston:2017236:0: 0
+san antonio harvey:2017236:b: 0
+#stormharvey:2017239:c: 9
+#houston:2017239:5: 6154
+#houston:2017237:8: 0
+#stxwx:2017239:2: 77
+#harveystorm2017:2017236:4: 0
+#tropicalstormharvey:2017237:2: 4
+hurricane harvey:2017236:e: 705
+#hurricanestrong:2017239:6: 2
+#houstonflood:2017237:0: 0
+#stxwx:2017239:a: 88
+#tropicalstormharvey:2017236:7: 0
+ #hurricaneharvey:2017239:2: 2218
+san antonio harvey:2017238:c: 0
+#khou11:2017236:4: 0
+san antonio harvey:2017237:f: 0
+harvey:2017236:d: 0
+#southtexas:2017236:6: 0
+harvery:2017236:c: 0
+harvey:2017237:6: 28488
+hurricane harvey:2017236:7: 712
+#nexstarharvey:2017237:1: 0
+ #hurricaneharvey:2017238:7: 3264
+#hurricanestrong:2017237:a: 0
+#tropicalstormharvey:2017239:8: 557
+hurricane harvey:2017238:5: 21969
+harvery:2017237:1: 0
+harvery:2017237:c: 0
+#stxwx:2017237:c: 90
+#nexstarharvey:2017238:5: 11
+#houston:2017236:7: 0
+#southtexas:2017236:1: 0
+#nexstarharvey:2017239:a: 1
+#stormharvey:2017236:e: 0
+#corpuschristi:2017238:d: 374
+#houston:2017239:8: 6453
+#nexstarharvey:2017238:6: 3
+san antonio harvey:2017237:d: 0
+ #hurricaneharvey:2017239:3: 2145
+#stormharvey:2017238:a: 9
+san antonio harvey:2017238:a: 0
+#stormharvey:2017239:e: 11
+#harveystorm2017:2017236:7: 0
+#harveystorm2017:2017239:b: 14
+#southtexas:2017238:7: 33
+hurricane harvey:2017238:7: 22012
+ #hurricaneharvey:2017237:b: 2755
+harvey:2017236:4: 0
+#tropicalstormharvey:2017236:4: 0
+harvery:2017236:6: 0
+#harveystorm2017:2017238:b: 4
+ #hurricaneharvey:2017236:8: 193
+#tropicalstormharvey:2017239:4: 524
+#houston:2017237:5: 0
+ #hurricaneharvey:2017239:a: 2192
+san antonio harvey:2017237:2: 0
+harvery:2017236:e: 0
+#corpuschristi:2017239:6: 78
+#houston:2017239:9: 6141
+#stormharvey:2017239:2: 16
+#corpuschristi:2017237:1: 224
+#southtexas:2017238:6: 32
+#harveystorm2017:2017239:5: 21
+#houston:2017237:9: 0
+#khou11:2017238:9: 0
+#stormharvey:2017239:d: 8
+#stormharvey:2017239:8: 7
+ #hurricaneharvey:2017238:6: 3130
+#tropicalstormharvey:2017239:5: 517
+harvery:2017238:d: 0
+san antonio harvey:2017237:b: 0
+#tropicalstormharvey:2017238:8: 97
+#harveystorm2017:2017236:2: 0
+#southtexas:2017237:0: 12
+san antonio harvey:2017238:9: 0
+#harveystorm2017:2017236:d: 0
+#stormharvey:2017238:3: 4
+#tropicalstormharvey:2017237:6: 6
+#houstonflood:2017239:e: 4280
+#harveystorm2017:2017237:1: 0
+#stormharvey:2017236:0: 0
+#corpuschristi:2017238:a: 361
+#khou11:2017237:4: 0
+#stxwx:2017237:9: 98
+#harveystorm2017:2017237:4: 0
+#stxwx:2017238:3: 497
+hurricane harvey:2017237:6: 16740
+#corpuschristi:2017238:2: 390
+#stormharvey:2017236:4: 0
+#stormharvey:2017239:3: 14
+hurricane harvey:2017237:4: 16709
+#nexstarharvey:2017237:f: 3
+harvery:2017236:2: 0
+san antonio harvey:2017236:6: 0
+harvery:2017239:5: 1
+hurricane harvey:2017236:1: 708
+hurricane harvey:2017236:d: 692
+hurricane harvey:2017239:d: 13481
+#stormharvey:2017238:6: 11
+#nexstarharvey:2017239:f: 1
+#hurricanestrong:2017237:8: 2
+#khou11:2017239:a: 459
+#houston:2017238:a: 0
+hurricane harvey:2017238:1: 21835
+ #hurricaneharvey:2017239:d: 2214
+#khou11:2017238:c: 0
+#harveystorm2017:2017237:e: 0
+#corpuschristi:2017238:6: 352
+#corpuschristi:2017237:a: 200
+harvey:2017237:a: 28583
+#hurricanestrong:2017237:d: 2
+#hurricanestrong:2017239:c: 4
+#tropicalstormharvey:2017239:a: 519
+#tropicalstormharvey:2017238:5: 103
+harvery:2017236:b: 0
+ #hurricaneharvey:2017238:e: 3191
+#corpuschristi:2017239:f: 101
+#harveystorm2017:2017239:f: 14
+#corpuschristi:2017236:6: 0
+harvey:2017236:f: 0
+#corpuschristi:2017237:5: 205
+#stxwx:2017236:5: 0
+#houston:2017236:f: 0
+harvey:2017237:e: 28461
+san antonio harvey:2017237:a: 0
+ #hurricaneharvey:2017236:7: 200
+#tropicalstormharvey:2017236:5: 0
+#corpuschristi:2017238:4: 372
+#houston:2017237:c: 0
+#harveystorm2017:2017238:c: 6
+san antonio harvey:2017239:3: 0
+#tropicalstormharvey:2017237:7: 3
+#khou11:2017238:5: 0
+harvery:2017236:d: 0
+ #hurricaneharvey:2017238:1: 3016
+hurricane harvey:2017238:3: 21955
+#nexstarharvey:2017236:4: 0
+#stxwx:2017236:8: 0
+#nexstarharvey:2017237:d: 1
+#hurricanestrong:2017236:e: 0
+#houstonflood:2017239:8: 4290
+#harveystorm2017:2017237:3: 0
+san antonio harvey:2017239:4: 0
+#harveystorm2017:2017236:6: 0
+harvey:2017236:b: 0
+#stxwx:2017238:8: 503
+#houstonflood:2017239:c: 4237
+#tropicalstormharvey:2017236:6: 0
+#hurricanestrong:2017239:2: 7
+#houstonflood:2017237:f: 0
+ #hurricaneharvey:2017236:a: 217
+#houstonflood:2017236:d: 0
+#southtexas:2017239:a: 36
+#hurricanestrong:2017239:8: 0
+#houstonflood:2017237:8: 0
+#corpuschristi:2017236:5: 0
+harvey:2017236:0: 0
+#corpuschristi:2017236:9: 0
+#hurricanestrong:2017237:6: 4
+#houston:2017238:f: 0
+#houstonflood:2017238:5: 0
+harvey:2017238:5: 54772
+san antonio harvey:2017238:f: 0
+#harveystorm2017:2017237:6: 0
+#houstonflood:2017236:6: 0
+#tropicalstormharvey:2017236:2: 0
+#khou11:2017238:f: 0
+#houstonflood:2017239:d: 4135
+#khou11:2017239:8: 479
+#corpuschristi:2017239:5: 77
+#corpuschristi:2017239:7: 79
+ #hurricaneharvey:2017236:f: 203
+#stormharvey:2017237:0: 12
+#nexstarharvey:2017238:b: 4
+harvey:2017236:2: 0
+ #hurricaneharvey:2017238:3: 3233
+#harveystorm2017:2017239:7: 14
+harvery:2017239:d: 0
+#hurricanestrong:2017239:7: 5
+harvey:2017237:0: 28658
+#corpuschristi:2017239:2: 87
+#southtexas:2017237:e: 11
+#southtexas:2017238:d: 40
+#hurricanestrong:2017236:8: 0
+#stxwx:2017237:7: 97
+#harveystorm2017:2017239:c: 12
+#houstonflood:2017237:3: 0
+#houstonflood:2017236:e: 0
+#southtexas:2017237:2: 12
+ #hurricaneharvey:2017237:1: 2706
+harvey:2017239:f: 52644
+#houston:2017238:2: 0
+#harveystorm2017:2017236:e: 0
+#khou11:2017236:b: 0
+harvery:2017238:b: 0
+#corpuschristi:2017237:7: 217
+harvery:2017238:f: 0
+#harveystorm2017:2017238:0: 8
+harvery:2017237:3: 0
+harvey:2017239:2: 52246
+harvery:2017239:9: 2
+#nexstarharvey:2017239:6: 2
+#harveystorm2017:2017237:8: 0
+#khou11:2017239:2: 444
+hurricane harvey:2017238:a: 21820
+#southtexas:2017239:c: 33
+san antonio harvey:2017238:8: 0
+harvery:2017236:4: 0
+#stormharvey:2017239:f: 11
+#nexstarharvey:2017238:4: 4
+#houstonflood:2017236:4: 0
+hurricane harvey:2017236:8: 673
+#stxwx:2017236:e: 0
+#hurricanestrong:2017238:4: 34
+#houstonflood:2017237:e: 0
+#stxwx:2017238:2: 506
+#hurricanestrong:2017239:4: 3
+san antonio harvey:2017239:f: 0
+#stxwx:2017237:e: 117
+harvery:2017237:f: 0
+#nexstarharvey:2017238:9: 4
+san antonio harvey:2017237:e: 0
+san antonio harvey:2017238:0: 0
+#harveystorm2017:2017237:f: 0
+#houstonflood:2017237:9: 0
+#corpuschristi:2017239:1: 75
+#nexstarharvey:2017236:6: 0
+#southtexas:2017239:1: 36
+#hurricanestrong:2017236:1: 0
+#harveystorm2017:2017239:1: 16
+#southtexas:2017239:9: 37
+harvery:2017237:e: 0
+#corpuschristi:2017236:0: 0
+#tropicalstormharvey:2017238:a: 133
+#khou11:2017239:9: 453
+#khou11:2017238:e: 0
+#harveystorm2017:2017238:a: 3
+#corpuschristi:2017236:c: 0
+#houstonflood:2017238:1: 0
+#harveystorm2017:2017238:f: 0
+hurricane harvey:2017236:3: 659
+#tropicalstormharvey:2017237:e: 6
+#southtexas:2017237:6: 15
+#nexstarharvey:2017236:2: 0
+#corpuschristi:2017237:b: 191
+#stxwx:2017239:8: 93
+#southtexas:2017239:7: 31
+#khou11:2017237:8: 0
+#khou11:2017239:1: 436
+#nexstarharvey:2017239:7: 2
+#corpuschristi:2017237:e: 211
+harvey:2017236:6: 0
+#stxwx:2017236:9: 0
+#corpuschristi:2017237:3: 186
+#corpuschristi:2017238:f: 342
+#houston:2017236:3: 0
+san antonio harvey:2017239:1: 0
+#tropicalstormharvey:2017236:c: 0
+hurricane harvey:2017236:2: 673
+harvery:2017238:7: 0
+#stormharvey:2017238:1: 5
+#khou11:2017239:5: 458
+harvey:2017237:5: 28379
+#corpuschristi:2017239:e: 91
+#houston:2017236:4: 0
+#nexstarharvey:2017236:d: 0
+#stormharvey:2017239:5: 5
+#houston:2017238:1: 0
+ #hurricaneharvey:2017237:d: 2683
+harvery:2017236:9: 0
+#southtexas:2017237:7: 9
+#nexstarharvey:2017239:d: 0
+#stxwx:2017238:7: 536
+#stormharvey:2017238:7: 10
+#corpuschristi:2017236:f: 0
+#khou11:2017236:8: 0
+#nexstarharvey:2017238:1: 2
+#harveystorm2017:2017237:b: 0
+#nexstarharvey:2017237:4: 3
+#harveystorm2017:2017237:d: 0
+hurricane harvey:2017239:0: 13537
+#hurricanestrong:2017237:4: 2
+#stormharvey:2017238:5: 6
+#stxwx:2017239:c: 89
+#houstonflood:2017236:3: 0
+#stormharvey:2017237:4: 13
+#nexstarharvey:2017236:f: 0
+#stormharvey:2017238:f: 10
+#khou11:2017239:3: 440
+#corpuschristi:2017239:b: 78
+harvery:2017239:1: 0
+hurricane harvey:2017236:f: 696
+#stormharvey:2017237:8: 12
+#stormharvey:2017237:e: 8
+harvey:2017238:e: 55216
+#stxwx:2017238:0: 491
+harvey:2017237:f: 28495
+ #hurricaneharvey:2017238:d: 3257
+#corpuschristi:2017237:c: 238
+#khou11:2017237:b: 0
+#stxwx:2017239:f: 96
+#khou11:2017239:d: 442
+#khou11:2017237:f: 0
+#southtexas:2017238:e: 43
+harvery:2017237:6: 0
+#houston:2017238:6: 0
+hurricane harvey:2017239:f: 13696
+san antonio harvey:2017239:6: 0
+san antonio harvey:2017237:1: 0
+#harveystorm2017:2017238:6: 3
+ #hurricaneharvey:2017236:6: 186
+#houston:2017238:0: 0
+#corpuschristi:2017239:d: 83
+ #hurricaneharvey:2017239:e: 2257
+#houston:2017237:4: 0
+#harveystorm2017:2017238:4: 4
+#tropicalstormharvey:2017238:9: 103
+san antonio harvey:2017236:c: 0
+#stormharvey:2017237:7: 9
+#hurricanestrong:2017236:2: 0
+#tropicalstormharvey:2017237:5: 4
+#corpuschristi:2017236:3: 0
+#khou11:2017237:2: 0
+#stxwx:2017239:9: 85
+#nexstarharvey:2017239:b: 5
+#stormharvey:2017236:c: 0
+#khou11:2017239:b: 451
+#southtexas:2017236:c: 0
+harvery:2017238:0: 0
+#khou11:2017239:7: 422
+#stxwx:2017236:b: 0
+san antonio harvey:2017239:5: 0
+#stxwx:2017237:5: 98
+#tropicalstormharvey:2017237:4: 3
+#stxwx:2017236:d: 0
+ #hurricaneharvey:2017238:b: 3262
+harvey:2017237:b: 28711
+ #hurricaneharvey:2017237:0: 2704
+#hurricanestrong:2017237:5: 1
+#corpuschristi:2017236:d: 0
+#tropicalstormharvey:2017236:3: 0
+#tropicalstormharvey:2017239:9: 468
+#houstonflood:2017236:1: 0
+ #hurricaneharvey:2017236:4: 203
+#corpuschristi:2017237:2: 207
+#stxwx:2017237:1: 101
+hurricane harvey:2017236:4: 692
+harvery:2017236:a: 0
+#khou11:2017237:d: 0
+#southtexas:2017236:9: 0
+#houstonflood:2017239:9: 4288
+#khou11:2017239:f: 459
+#tropicalstormharvey:2017239:7: 498
+harvery:2017239:8: 3
+#houston:2017237:1: 0
+#stormharvey:2017238:e: 11
+hurricane harvey:2017239:2: 13541
+#khou11:2017237:e: 0
+ #hurricaneharvey:2017239:f: 2135
+#houstonflood:2017239:6: 4132
+#corpuschristi:2017239:4: 99
+#stormharvey:2017238:d: 11
+#houstonflood:2017238:7: 0
+#khou11:2017237:9: 0
+harvery:2017237:b: 0
+hurricane harvey:2017239:3: 13386
+#southtexas:2017236:7: 0
+#hurricanestrong:2017236:b: 0
+#houston:2017236:c: 0
+#stxwx:2017238:9: 455
+hurricane harvey:2017239:6: 13654
+#houston:2017236:2: 0
+#hurricanestrong:2017237:7: 2
+hurricane harvey:2017239:b: 13428
+#khou11:2017238:2: 0
+harvey:2017239:6: 52697
+#houstonflood:2017237:7: 0
+harvey:2017237:3: 28186
+harvey:2017238:1: 54748
+#houstonflood:2017237:b: 0
+san antonio harvey:2017239:2: 0
+harvery:2017237:7: 0
+#nexstarharvey:2017237:e: 4
+#khou11:2017237:a: 0
+#stormharvey:2017237:a: 8
+ #hurricaneharvey:2017238:2: 3153
+#khou11:2017238:3: 0
+#houston:2017237:3: 0
+#tropicalstormharvey:2017236:9: 0
+harvey:2017236:a: 0
+#houstonflood:2017239:3: 4199
+#corpuschristi:2017236:7: 0
+#houston:2017239:1: 6471
+#stormharvey:2017239:6: 6
+ #hurricaneharvey:2017237:6: 2759
+#nexstarharvey:2017237:3: 1
+#hurricanestrong:2017238:2: 30
+harvery:2017239:2: 0
+san antonio harvey:2017236:9: 0
+#stxwx:2017236:2: 0
+#harveystorm2017:2017236:b: 0
+#southtexas:2017237:3: 5
+#southtexas:2017238:1: 22
+#southtexas:2017237:4: 7
+#houstonflood:2017236:5: 0
+#corpuschristi:2017239:8: 91
+#tropicalstormharvey:2017237:a: 4
+#houstonflood:2017239:4: 4144
+#corpuschristi:2017239:9: 89
+#harveystorm2017:2017236:9: 0
+#houstonflood:2017239:2: 4163
+#tropicalstormharvey:2017237:b: 7
+#hurricanestrong:2017237:f: 2
+#southtexas:2017236:8: 0
+#tropicalstormharvey:2017237:0: 7
+#houstonflood:2017237:4: 0
+#houston:2017239:2: 6213
+#southtexas:2017237:b: 10
+ #hurricaneharvey:2017237:e: 2692
+#stormharvey:2017236:a: 0
+#harveystorm2017:2017236:0: 0
+#khou11:2017237:3: 0
+#stormharvey:2017236:5: 0
+#tropicalstormharvey:2017239:f: 505
+#houstonflood:2017236:0: 0
+#nexstarharvey:2017236:8: 0
+san antonio harvey:2017238:5: 0
+#corpuschristi:2017238:1: 364
+hurricane harvey:2017237:e: 16711
+#houston:2017239:b: 6346
+#houston:2017237:7: 0
+#stormharvey:2017237:2: 8
+san antonio harvey:2017239:b: 0
+#harveystorm2017:2017238:9: 7
+#stxwx:2017236:4: 0
+#stxwx:2017238:c: 508
+harvey:2017237:c: 28242
+#nexstarharvey:2017238:e: 6
+harvey:2017239:b: 52456
+#southtexas:2017238:0: 29
+harvery:2017239:c: 2
+#houston:2017238:d: 0
+harvery:2017236:0: 0
+san antonio harvey:2017236:2: 0
+#nexstarharvey:2017238:f: 1
+#houston:2017236:e: 0
+#harveystorm2017:2017236:f: 0
+#harveystorm2017:2017239:2: 20
+#houston:2017237:d: 0
+hurricane harvey:2017236:5: 669
+#nexstarharvey:2017237:a: 5
+#harveystorm2017:2017239:6: 14
+#tropicalstormharvey:2017238:0: 118
+harvey:2017238:2: 55086
+#southtexas:2017238:9: 43
+harvery:2017237:2: 0
+#stormharvey:2017239:4: 8
+#nexstarharvey:2017237:9: 2
+harvery:2017238:a: 0
+#southtexas:2017239:0: 31
+#nexstarharvey:2017238:8: 1
+#houston:2017239:e: 6398
+#nexstarharvey:2017237:5: 3
+hurricane harvey:2017239:7: 13532
+#southtexas:2017237:d: 12
+#hurricanestrong:2017239:a: 4
+hurricane harvey:2017239:8: 13430
+hurricane harvey:2017238:c: 22134
+#stormharvey:2017236:7: 0
+hurricane harvey:2017236:6: 681
+harvery:2017238:2: 0
+harvey:2017237:8: 28499
+ #hurricaneharvey:2017239:b: 2294
+ #hurricaneharvey:2017236:2: 189
+#stormharvey:2017237:3: 14
+#houston:2017239:c: 6333
+#southtexas:2017238:b: 37
+#houstonflood:2017238:e: 0
+harvey:2017239:e: 52566
+#stxwx:2017239:1: 86
+#nexstarharvey:2017239:0: 0
+harvery:2017238:6: 0
+#harveystorm2017:2017236:5: 0
+harvey:2017236:3: 0
+hurricane harvey:2017237:b: 17020
+harvey:2017239:9: 52384
+#hurricanestrong:2017237:1: 1
+#tropicalstormharvey:2017239:3: 523
+ #hurricaneharvey:2017239:6: 2247
+#houstonflood:2017236:a: 0
+#corpuschristi:2017238:0: 344
+#khou11:2017236:c: 0
+#harveystorm2017:2017237:a: 0
+#houstonflood:2017238:c: 0
+#southtexas:2017239:2: 39
+hurricane harvey:2017239:a: 13550
+harvery:2017239:a: 0
+harvey:2017238:6: 54756
+harvey:2017238:b: 54888
+#stormharvey:2017239:a: 12
+#tropicalstormharvey:2017236:0: 0
+#nexstarharvey:2017239:8: 2
+#houstonflood:2017238:b: 0
+ #hurricaneharvey:2017239:8: 2143
+hurricane harvey:2017237:d: 16819
+#harveystorm2017:2017239:e: 19
+harvery:2017237:4: 0
+ #hurricaneharvey:2017237:5: 2759
+hurricane harvey:2017239:9: 13563
+#nexstarharvey:2017239:1: 0
+harvey:2017237:1: 28410
+harvey:2017236:c: 0
+#harveystorm2017:2017239:9: 8
+#houstonflood:2017239:b: 4253
+#tropicalstormharvey:2017238:6: 116
+harvery:2017238:9: 0
+harvery:2017239:7: 3
+#khou11:2017237:0: 0
+#southtexas:2017236:f: 0
+#hurricanestrong:2017237:3: 1
+#khou11:2017239:e: 444
+#harveystorm2017:2017238:e: 3
+#hurricanestrong:2017238:0: 25
+#stxwx:2017236:0: 0
+san antonio harvey:2017237:0: 0
+#stxwx:2017236:f: 0
+#houstonflood:2017236:b: 0
+hurricane harvey:2017237:5: 16903
+#houstonflood:2017239:0: 4067
+#khou11:2017237:c: 0
+#harveystorm2017:2017239:8: 16
+harvey:2017236:1: 0
+#hurricanestrong:2017238:9: 35
+#stormharvey:2017238:0: 6
+#corpuschristi:2017238:7: 345
+#hurricanestrong:2017239:e: 5
+#nexstarharvey:2017239:e: 1
+#corpuschristi:2017237:9: 213
+ #hurricaneharvey:2017236:9: 210
+ #hurricaneharvey:2017236:1: 190
+harvey:2017238:f: 54755
+ #hurricaneharvey:2017237:7: 2712
+#houston:2017239:4: 6304
+san antonio harvey:2017239:7: 0
+#harveystorm2017:2017238:d: 6
+#southtexas:2017237:5: 9
+ #hurricaneharvey:2017236:e: 196
+#stormharvey:2017236:8: 0
+harvery:2017238:c: 0
+harvery:2017239:4: 1
+#nexstarharvey:2017238:d: 1
+ #hurricaneharvey:2017237:3: 2558
+#harveystorm2017:2017239:3: 18
+#houstonflood:2017239:f: 4262
+#hurricanestrong:2017237:c: 3
+#hurricanestrong:2017239:3: 7
+san antonio harvey:2017236:5: 0
+#tropicalstormharvey:2017239:0: 519
+harvery:2017236:3: 0
+#hurricanestrong:2017236:7: 0
+ #hurricaneharvey:2017239:1: 2223
+san antonio harvey:2017239:e: 0
+#stxwx:2017238:6: 525
+#hurricanestrong:2017236:5: 0
+harvery:2017237:d: 0
+#stxwx:2017237:f: 100
+harvery:2017237:9: 0
+#nexstarharvey:2017237:8: 4
+#stxwx:2017238:d: 493
+#nexstarharvey:2017236:c: 0
+san antonio harvey:2017238:2: 0
+#houston:2017236:d: 0
+#southtexas:2017236:2: 0
+#nexstarharvey:2017236:1: 0
+#hurricanestrong:2017238:f: 29
+#stxwx:2017239:6: 96
+#stxwx:2017237:8: 99
+#southtexas:2017236:d: 0
+#stxwx:2017239:5: 91
+#tropicalstormharvey:2017237:3: 6
+harvery:2017238:5: 0
+#stxwx:2017239:0: 83
+#houstonflood:2017238:d: 0
+#khou11:2017236:7: 0
+Total number of Tweets: 3364128
+Counted event in 1.8 minutes (107.868185803 seconds)
