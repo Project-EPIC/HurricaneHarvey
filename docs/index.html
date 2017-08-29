@@ -21,6 +21,13 @@
       <header class="p12">
         <h3 class="txt-h3 pb0 mb6">Hurricane Harvey</h3>
       </header>
+
+      <h4 class='px12 txt=h4'>Tweets After:</h4>
+      <p id='timeVal' class="px12 txt"></p>
+      <div class='range range--s px6'>
+        <input id='timeFilter' type='range' min='1503865553' max='1504038368' step=3600 value='1503865553'/>
+      </div>
+
       <h4 class=" px12 txt-h4">Search by Hashtag: </h4>
       <input id='hashtagfilter' class='m12 input w180 color-white' placeholder='ex: harvey' />
       <p class=" px12 txt">Only 1 hashtag, with or w/o #</p>
@@ -138,6 +145,22 @@ map.once('load',function(){
   });
 
   map.setFilter('tweets',getFilters());
+
+
+  document.getElementById('timeFilter').addEventListener('change',function(e){
+
+    var seconds = Number(e.target.value)
+    var date = new Date(seconds*1000)
+
+    minDate = Number(seconds)
+
+    document.getElementById('timeVal').innerHTML = date.toISOString()
+
+    map.setFilter('tweets', getFilters())
+
+  })
+
+  fireEvent(document.getElementById('timeFilter'),'change');
 
 
 });

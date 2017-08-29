@@ -1,3 +1,5 @@
+var minDate = 1
+
 const NOISE = [
   '#job',
   '#career'
@@ -38,7 +40,7 @@ function extractLink(text){
 }
 
 function getFilters(){
-  return ['all'].concat(keyFilters).concat(offKeyFilters)
+  return ['all',['>=','timestamp',minDate]].concat(keyFilters).concat(offKeyFilters)
 }
 
 var keyFilters = [];
