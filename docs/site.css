@@ -1,0 +1,14 @@
+body { margin:0; padding:0; }
+.boxdraw {
+  background: rgba(56,135,190,0.1);
+  border: 2px solid #3887be;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+}
+
+#hashtags{
+  list-style-type: none;
+}

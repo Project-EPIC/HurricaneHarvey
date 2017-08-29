@@ -7,14 +7,41 @@
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.35.1/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.35.1/mapbox-gl.css' rel='stylesheet' />
 
-    <style>
-        body { margin:0; padding:0; }
-        #map { position:absolute; top:0; bottom:0; width:100%; }
-    </style>
-</head>
-<body>
+    <link href="https://api.mapbox.com/mapbox-assembly/v0.13.0/assembly.min.css" rel="stylesheet">
+    <script async defer src="https://api.mapbox.com/mapbox-assembly/v0.13.0/assembly.js"></script>
 
-<div id='map'></div>
+    <link href="site.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+  <section class="grid grid--gut12" style="height
+  :800px !important;">
+
+    <div id="left" class="col col--2 bg-darken75 prose prose--dark">
+      <header class="p12">
+        <h3 class="txt-h3 pb0 mb6">Hurricane Harvey</h3>
+      </header>
+      <h4 class=" px12 txt-h4">Search by Hashtag: </h4>
+      <input id='hashtagfilter' class='m12 input w180 color-white' placeholder='ex: harvey' />
+      <p class=" px12 txt">Only 1 hashtag, with or w/o #</p>
+      <button id="clear" class="btn--s btn ml12">Clear</button>
+
+      <h4 class="p12 mt36 txt-h4">Noise Hashtags: (Filter Out)</h4>
+      <input id='hashtagFilterOut' class='m12 input w180 color-white' placeholder='ex: jobs' />
+
+      <ul id='hashtags'></ul>
+    </div>
+
+    <div id="right" class="col col--10 p0 bg-gray-faint bg-lighten">
+
+      <div id="map" style="width:100%" class="viewport-full"> </div>
+    </div>
+
+  </section>
+
+  <script src="site.js"></script>
+
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiamVubmluZ3NhbmRlcnNvbiIsImEiOiIzMHZndnpvIn0.PS-j7fRK3HGU7IE8rbLT9A';
 
@@ -25,23 +52,6 @@ var map = new mapboxgl.Map({
     style: 'mapbox://styles/mapbox/satellite-streets-v9',
     hash: true
 });
-
-function extractLink(text){
-  if(text.search("http")>=0){
-    var out = []
-    text.split(" ").forEach(function(word){
-      if (word.startsWith("http")){
-        out.push(`<a class="link" href="${word}" target="_blank">${word}</a>`)
-      }else{
-        out.push(word)
-      }
-    })
-    return out.join(" ")
-  }else{
-    return text
-  }
-}
-
 
 map.once('load',function(){
 
@@ -88,11 +98,53 @@ map.once('load',function(){
 
   map.on('moveend',function(e){
     var features = map.queryRenderedFeatures({layers: ['tweets']})
-    console.warn("Tweets In View: ~" + features.length)
+    var uniqueFeatures = getUniqueFeatures(features,'id')
   })
-})
+
+  document.getElementById('hashtagfilter').addEventListener('change',function(e){
+    var t = e.target.value;
+
+    if (t==="" || t === " "){
+      keyFilters = [];
+      map.setFilter('tweets', getFilters())
+      return;
+    }
+    if(!t.startsWith("#")){
+      t = "#"+t
+    }
+    keyFilters = [['has',t]];
+    map.setFilter('tweets',getFilters())
+  });
+
+  document.getElementById('clear').addEventListener('click',function(e){
+    console.log(e);
+    var obj = document.getElementById("hashtagfilter");
+    obj.value = ""
+    fireEvent(obj,'change');
+  })
+
+  document.getElementById('hashtagFilterOut').addEventListener('change',function(e){
+    var t = e.target.value;
+    if (!t.startsWith("#")){
+      t = "#"+t
+    }
+    addToList(t)
+    map.setFilter('tweets',getFilters())
+  });
+
+
+  NOISE.forEach(function(tag){
+    addToList(tag)
+    console.log(tag)
+  });
+
+  map.setFilter('tweets',getFilters());
+
+
+});
 
 </script>
+
 
 </body>
 </html>
