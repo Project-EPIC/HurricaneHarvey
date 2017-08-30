@@ -25,7 +25,7 @@
       <h4 class='px12 txt=h4'>Tweets After:</h4>
       <p id='timeVal' class="px12 txt"></p>
       <div class='range range--s px6'>
-        <input id='timeFilter' type='range' min='1503865553' max='1504038368' step=3600 value='1503865553'/>
+        <input id='timeFilter' type='range' min='1503865553' max='1504292546' step=3600 value='1503865553'/>
       </div>
 
       <h4 class=" px12 txt-h4">Search by Hashtag: </h4>
@@ -65,9 +65,10 @@ map.once('load',function(){
     'id': "tweets",
     'type': "circle",
     'source': {
-      'type': "geojson",
-      'data': "harvey.geojson"
+      'type': "vector",
+      'url': "mapbox://jenningsanderson.harvey-latest"
     },
+    'source-layer': 'harvey-tweets',
     'paint': {
       'circle-color': 'salmon',
       'circle-opacity': 0.9
@@ -92,7 +93,7 @@ map.once('load',function(){
     var html = "<table>"
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">User</span></td><td>${props.user}</td></tr>`
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">Time</span></td><td>${props.created_at}</td></tr>`
-    html += `<tr><td><span style="margin-right:10px; font-weight:700;">Text</span></td><td>${extractLink(props.text)}</td></tr>`
+    html += `<tr><td><span style="margin-right:10px; font-weight:700;">Text</span></td><td>${extractLink(decodeURIComponen( props.text.replace(/\+/g,' ')))}</td></tr>`
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">timestamp</span></td><td>${props.timestamp}</td></tr>
     </table>`
 
