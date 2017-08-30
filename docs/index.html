@@ -93,7 +93,7 @@ map.once('load',function(){
     var html = "<table>"
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">User</span></td><td>${props.user}</td></tr>`
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">Time</span></td><td>${props.created_at}</td></tr>`
-    html += `<tr><td><span style="margin-right:10px; font-weight:700;">Text</span></td><td>${extractLink(decodeURIComponen( props.text.replace(/\+/g,' ')))}</td></tr>`
+    html += `<tr><td><span style="margin-right:10px; font-weight:700;">Text</span></td><td>${extractLink(decodeURIComponent( props.text.replace(/\+/g,' ')))}</td></tr>`
     html += `<tr><td><span style="margin-right:10px; font-weight:700;">timestamp</span></td><td>${props.timestamp}</td></tr>
     </table>`
 
